@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.aplication\\usecases\\getproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|solutionrelative:sanastore.aplication\\usecases\\getproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B8FC53-D808-4C88-AF69-0AD2492165F4}|SanaStore.Domain\\SanaStore.Domain.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.domain\\abstractions\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B8FC53-D808-4C88-AF69-0AD2492165F4}|SanaStore.Domain\\SanaStore.Domain.csproj|solutionrelative:sanastore.domain\\abstractions\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.infraestructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|solutionrelative:sanastore.infraestructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.infraestructure\\presenters\\getprodutospresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|solutionrelative:sanastore.infraestructure\\presenters\\getprodutospresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.infraestructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|solutionrelative:sanastore.infraestructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B8FC53-D808-4C88-AF69-0AD2492165F4}|SanaStore.Domain\\SanaStore.Domain.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.domain\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B8FC53-D808-4C88-AF69-0AD2492165F4}|SanaStore.Domain\\SanaStore.Domain.csproj|solutionrelative:sanastore.domain\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.infraestructure\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|solutionrelative:sanastore.infraestructure\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE58EE64-1EE5-4CF9-AA1B-7FB81CD6E3E8}|SanaStore.Api\\SanaStore.Api.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.api\\controllers\\sanastorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE58EE64-1EE5-4CF9-AA1B-7FB81CD6E3E8}|SanaStore.Api\\SanaStore.Api.csproj|solutionrelative:sanastore.api\\controllers\\sanastorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.infraestructure\\presenters\\postorderpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|solutionrelative:sanastore.infraestructure\\presenters\\postorderpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.infraestructure\\presenters\\ipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|solutionrelative:sanastore.infraestructure\\presenters\\ipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.aplication\\usecases\\postorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|solutionrelative:sanastore.aplication\\usecases\\postorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.aplication\\products\\igetproductsoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|solutionrelative:sanastore.aplication\\products\\igetproductsoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.aplication\\orders\\ipostorderoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|solutionrelative:sanastore.aplication\\orders\\ipostorderoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.aplication\\orders\\ipostordersinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|solutionrelative:sanastore.aplication\\orders\\ipostordersinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.infraestructure\\repositories\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B05E9B-0D6E-41E6-9906-ADBD35F7B2DD}|SanaStore.Infraestructure\\SanaStore.Infrastructure.csproj|solutionrelative:sanastore.infraestructure\\repositories\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B8FC53-D808-4C88-AF69-0AD2492165F4}|SanaStore.Domain\\SanaStore.Domain.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.domain\\entity\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B8FC53-D808-4C88-AF69-0AD2492165F4}|SanaStore.Domain\\SanaStore.Domain.csproj|solutionrelative:sanastore.domain\\entity\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.aplication\\builders\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|solutionrelative:sanastore.aplication\\builders\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B8FC53-D808-4C88-AF69-0AD2492165F4}|SanaStore.Domain\\SanaStore.Domain.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B8FC53-D808-4C88-AF69-0AD2492165F4}|SanaStore.Domain\\SanaStore.Domain.csproj|solutionrelative:sanastore.domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.aplication\\builders\\productbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E313CD-78BF-4FEF-BAF3-546AE0F64C73}|SanaStore.Aplication\\SanaStore.Application.csproj|solutionrelative:sanastore.aplication\\builders\\productbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B8FC53-D808-4C88-AF69-0AD2492165F4}|SanaStore.Domain\\SanaStore.Domain.csproj|c:\\users\\sergi\\source\\repos\\sana\\src\\sanastore\\sanastore.domain\\entity\\productsxcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B8FC53-D808-4C88-AF69-0AD2492165F4}|SanaStore.Domain\\SanaStore.Domain.csproj|solutionrelative:sanastore.domain\\entity\\productsxcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\UseCases\\GetProducts.cs",
+              "RelativeDocumentMoniker": "SanaStore.Aplication\\UseCases\\GetProducts.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\UseCases\\GetProducts.cs",
+              "RelativeToolTip": "SanaStore.Aplication\\UseCases\\GetProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:01:57.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "SanaStore.Infraestructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "SanaStore.Infraestructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:58:47.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanaStoreController.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Api\\Controllers\\SanaStoreController.cs",
+              "RelativeDocumentMoniker": "SanaStore.Api\\Controllers\\SanaStoreController.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Api\\Controllers\\SanaStoreController.cs",
+              "RelativeToolTip": "SanaStore.Api\\Controllers\\SanaStoreController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:52:18.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProdutosPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Presenters\\GetProdutosPresenter.cs",
+              "RelativeDocumentMoniker": "SanaStore.Infraestructure\\Presenters\\GetProdutosPresenter.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Presenters\\GetProdutosPresenter.cs",
+              "RelativeToolTip": "SanaStore.Infraestructure\\Presenters\\GetProdutosPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:47:41.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "SanaStore.Infraestructure\\DependencyContainer.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\DependencyContainer.cs",
+              "RelativeToolTip": "SanaStore.Infraestructure\\DependencyContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:46:58.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPostOrderOutputPort.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\Orders\\IPostOrderOutputPort.cs",
+              "RelativeDocumentMoniker": "SanaStore.Aplication\\Orders\\IPostOrderOutputPort.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\Orders\\IPostOrderOutputPort.cs",
+              "RelativeToolTip": "SanaStore.Aplication\\Orders\\IPostOrderOutputPort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:44:08.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGetProductsOutputPort.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\Products\\IGetProductsOutputPort.cs",
+              "RelativeDocumentMoniker": "SanaStore.Aplication\\Products\\IGetProductsOutputPort.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\Products\\IGetProductsOutputPort.cs",
+              "RelativeToolTip": "SanaStore.Aplication\\Products\\IGetProductsOutputPort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:43:30.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SanaStore.Infraestructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "SanaStore.Infraestructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:37:14.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Domain\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "SanaStore.Domain\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Domain\\Entity\\Product.cs",
+              "RelativeToolTip": "SanaStore.Domain\\Entity\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:36:19.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Domain\\Abstractions\\IProductsRepository.cs",
+              "RelativeDocumentMoniker": "SanaStore.Domain\\Abstractions\\IProductsRepository.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Domain\\Abstractions\\IProductsRepository.cs",
+              "RelativeToolTip": "SanaStore.Domain\\Abstractions\\IProductsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:38:15.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostOrderPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Presenters\\PostOrderPresenter.cs",
+              "RelativeDocumentMoniker": "SanaStore.Infraestructure\\Presenters\\PostOrderPresenter.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Presenters\\PostOrderPresenter.cs",
+              "RelativeToolTip": "SanaStore.Infraestructure\\Presenters\\PostOrderPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:48:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Presenters\\IPresenter.cs",
+              "RelativeDocumentMoniker": "SanaStore.Infraestructure\\Presenters\\IPresenter.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Presenters\\IPresenter.cs",
+              "RelativeToolTip": "SanaStore.Infraestructure\\Presenters\\IPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:48:24.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPostOrdersInputPort.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\Orders\\IPostOrdersInputPort.cs",
+              "RelativeDocumentMoniker": "SanaStore.Aplication\\Orders\\IPostOrdersInputPort.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\Orders\\IPostOrdersInputPort.cs",
+              "RelativeToolTip": "SanaStore.Aplication\\Orders\\IPostOrdersInputPort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:43:22.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\UseCases\\PostOrder.cs",
+              "RelativeDocumentMoniker": "SanaStore.Aplication\\UseCases\\PostOrder.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\UseCases\\PostOrder.cs",
+              "RelativeToolTip": "SanaStore.Aplication\\UseCases\\PostOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:41:52.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Domain\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "SanaStore.Domain\\Entity\\Order.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Domain\\Entity\\Order.cs",
+              "RelativeToolTip": "SanaStore.Domain\\Entity\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:39:54.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\Builders\\OrderBuilder.cs",
+              "RelativeDocumentMoniker": "SanaStore.Aplication\\Builders\\OrderBuilder.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\Builders\\OrderBuilder.cs",
+              "RelativeToolTip": "SanaStore.Aplication\\Builders\\OrderBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:38:50.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Domain\\Entity\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SanaStore.Domain\\Entity\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Domain\\Entity\\OrderDetail.cs",
+              "RelativeToolTip": "SanaStore.Domain\\Entity\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:38:04.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Repositories\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "SanaStore.Infraestructure\\Repositories\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Infraestructure\\Repositories\\DatabaseContext.cs",
+              "RelativeToolTip": "SanaStore.Infraestructure\\Repositories\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:37:32.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsXCategories.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Domain\\Entity\\ProductsXCategories.cs",
+              "RelativeDocumentMoniker": "SanaStore.Domain\\Entity\\ProductsXCategories.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Domain\\Entity\\ProductsXCategories.cs",
+              "RelativeToolTip": "SanaStore.Domain\\Entity\\ProductsXCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:35:54.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\Builders\\ProductBuilder.cs",
+              "RelativeDocumentMoniker": "SanaStore.Aplication\\Builders\\ProductBuilder.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\Builders\\ProductBuilder.cs",
+              "RelativeToolTip": "SanaStore.Aplication\\Builders\\ProductBuilder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:45:36.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

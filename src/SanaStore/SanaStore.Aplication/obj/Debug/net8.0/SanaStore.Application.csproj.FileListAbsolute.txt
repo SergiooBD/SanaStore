@@ -1,0 +1,15 @@
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\obj\Debug\net8.0\SanaStore.Application.csproj.AssemblyReference.cache
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\obj\Debug\net8.0\SanaStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\obj\Debug\net8.0\SanaStore.Application.AssemblyInfoInputs.cache
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\obj\Debug\net8.0\SanaStore.Application.AssemblyInfo.cs
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\obj\Debug\net8.0\SanaStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\bin\Debug\net8.0\SanaStore.Application.deps.json
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\bin\Debug\net8.0\SanaStore.Application.dll
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\bin\Debug\net8.0\SanaStore.Application.pdb
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\bin\Debug\net8.0\SanaStore.Domain.dll
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\bin\Debug\net8.0\SanaStore.Domain.pdb
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\obj\Debug\net8.0\SanaStor.C24EDA1B.Up2Date
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\obj\Debug\net8.0\SanaStore.Application.dll
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\obj\Debug\net8.0\refint\SanaStore.Application.dll
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\obj\Debug\net8.0\SanaStore.Application.pdb
+C:\Users\Sergi\source\repos\Sana\src\SanaStore\SanaStore.Aplication\obj\Debug\net8.0\ref\SanaStore.Application.dll

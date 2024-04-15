@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sz2Z6G+/JA0W8o5XyDRxKNXPCi983Se2jAK02wHZcMUZjv5yeURir+T1FGskh8MAqhBqUN0Q77KRKRla8XhoUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sergi\\source\\repos\\Sana\\src\\SanaStore\\SanaStore.Aplication\\SanaStore.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sergi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
