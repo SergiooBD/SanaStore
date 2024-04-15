@@ -10,6 +10,7 @@ using SanaStore.Infrastructure.Repositories;
 using SanaStore.Application.Products;
 using SanaStore.Infrastructure.Presenters;
 using SanaStore.Application.DTO;
+using SanaStore.Application.Orders;
 
 namespace SanaStore.Api.Controllers
 {
@@ -20,12 +21,14 @@ namespace SanaStore.Api.Controllers
         private readonly DatabaseContext _context;
         private readonly IGetProductsInputPort getProductsInputPort;
         private readonly IGetProductsOutputPort getProductsOutputPort;
+        private readonly IPostOrdersInputPort postOrdersInputPort;
 
-        public SanaStoreController(DatabaseContext context, IGetProductsInputPort getProductsInputPort, IGetProductsOutputPort getProductsOutputPort)
+        public SanaStoreController(DatabaseContext context, IGetProductsInputPort getProductsInputPort, IGetProductsOutputPort getProductsOutputPort, IPostOrdersInputPort postOrdersInputPort)
         {
             _context = context;
             this.getProductsInputPort = getProductsInputPort;
             this.getProductsOutputPort = getProductsOutputPort;
+            this.postOrdersInputPort = postOrdersInputPort;
         }
 
         [HttpGet("GetProducts")]
@@ -37,11 +40,9 @@ namespace SanaStore.Api.Controllers
         }
 
         [HttpPost("CreteOrder")]
-        public async Task<ActionResult> ProcessOrder(OrderDTO Order)
+        public async Task<OrderDTO> ProcessOrder(OrderDTO Order)
         {
-            await getProductsInputPort.Handle();
-            var response = ((IPresenter<List<ProductDTO>>)getProductsOutputPort).Content;
-            return Ok(response);
+            return await postOrdersInputPort.CreateOrder(Order);
         }
 
     }

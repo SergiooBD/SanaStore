@@ -30,5 +30,20 @@ namespace SanaStore.Application.UseCases
             var ToList = productBuilder.Convert(listProduct);
             await getProductsOutputPort.Handle(ToList);
         }
+
+        public async Task HandleProductId(Guid idProduc, int quantity)
+        {
+            var prodcuct = await productsRepository.GetProductToOrder(idProduc, quantity);
+            if(prodcuct != null)
+            {
+                await getProductsOutputPort.HandleProductId(true);
+            }
+            else
+            {
+                await getProductsOutputPort.HandleProductId(false);
+            }
+
+            
+        }
     }
 }

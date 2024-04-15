@@ -11,6 +11,6 @@ namespace SanaStore.Domain.Abstractions
     {
         Task<List<Product>> GetProducts();
 
-        Task<Product> GetProductId(Guid idProduc, int quantity);
+        Task<Product> GetProductToOrder(Guid idProduc, int quantity);
     }
 }

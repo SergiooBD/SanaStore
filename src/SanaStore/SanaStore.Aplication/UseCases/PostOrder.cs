@@ -26,11 +26,13 @@ namespace SanaStore.Application.UseCases
             this.orderBuilder = orderBuilder;
         }
 
-        public async Task Handle(OrderDTO orderDTO)
+        public async Task<OrderDTO> CreateOrder(OrderDTO orderDTO)
         {
             var order = orderBuilder.Convert(orderDTO);
+
             //var listProduct = await orderRepository.PostOrder(orderDTO);
             await postOrderOutputPort.Handle(orderDTO);
+            return orderDTO;
         }
         
        

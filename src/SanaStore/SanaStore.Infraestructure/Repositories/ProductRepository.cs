@@ -21,9 +21,9 @@ namespace SanaStore.Infrastructure.Repositories
             var products = await context.product.Where(c=> c.Stock > 0).ToListAsync();
             return products;
         }
-        public async Task<Product> GetProductId(Guid idProduc, int quantity)
+        public async Task<Product> GetProductToOrder(Guid idProduc, int quantity)
         {
-            var product = await context.product.Where(c => c.Id == idProduc && c.Stock >= quantity).FirstAsync();
+            var product = await context.product.Where(c => c.Id == idProduc && c.Stock >= quantity).FirstAsync();           
             return product;
         }
     }

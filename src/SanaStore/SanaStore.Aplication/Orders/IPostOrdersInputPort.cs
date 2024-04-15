@@ -9,6 +9,6 @@ namespace SanaStore.Application.Orders
 {
     public interface IPostOrdersInputPort
     {
-        Task Handle(OrderDTO orderDTO);
+        Task<OrderDTO> CreateOrder(OrderDTO orderDTO);
     }
 }

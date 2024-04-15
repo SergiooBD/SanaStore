@@ -20,7 +20,7 @@ namespace SanaStore.Infrastructure.Repositories
         public async Task<Order> PostOrder(Order orderReg)
         {
             await context.orders.AddAsync(orderReg);
-            await context.SaveChangesAsync();
+            //await context.SaveChangesAsync();
             return orderReg;
         }
     }
